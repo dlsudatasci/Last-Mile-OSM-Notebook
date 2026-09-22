@@ -1,0 +1,12 @@
+geopandas
+matplotlib
+networkx
+numpy
+openpyxl
+osmnx
+pandas
+pyogrio
+pyproj
+rtree
+shapely
+tqdm
