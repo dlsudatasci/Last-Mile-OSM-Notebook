@@ -1,3 +1,5 @@
+The purpose of these notebooks is to extract OSM data for the last mile delivery model.
+
 Environment Setup
 1. Create a Python environment.
 
