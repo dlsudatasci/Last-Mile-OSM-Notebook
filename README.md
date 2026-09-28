@@ -1,6 +1,12 @@
-The purpose of these notebooks is to extract OSM data for the last mile delivery model.
+# Notebooks
+01-Data Collection and Preprocessing
+- Extract OSM road network data and preprocessing it for node engineering.
+  
+02-Node Feature Engineering
+- Organize the data and create node features for GNN.
 
-Environment Setup
+
+# Environment Setup
 1. Create a Python environment.
 
 Using Conda:
@@ -12,10 +18,10 @@ Or using venv:
 
 python -m venv .venv
 
-# Windows
+Windows
 .venv\Scripts\activate
 
-# macOS/Linux
+macOS/Linux
 source .venv/bin/activate
 
 2. Install the required packages.
